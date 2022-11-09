@@ -7,7 +7,7 @@ Projeto de aula manipulando o DOM com JavaScript para Web
 ![Badge Conclúido](https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=green&style=flat-square)
 
 ```
-Acessar o link com o projeto no ar:
+Acessar o link com o projeto no ar: https://vercel.com/lucazcarloz/robotron2000-alura/A2CdPmwbDLTqjfMFLsCqCpcQFV9u
 ```
 
 Obs: Objetivo do projeto é apenas estudo em estágio inicial, considerações em relação a polimento do projeto não serão feitas para dar andamento aos estudos. Modelo de imagens, código html e css fornecidos pela aula do Alura.
